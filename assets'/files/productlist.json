@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Sơ mi trắng thanh lịch",
+    "price": 250000,
+    "image": "shirt_white.png",
+    "description": "Chất liệu cotton cao cấp, thoáng mát, ít nhăn.",
+    "categoryId": 1,
+    "size": "L",
+    "color": "White"
+  },
+  {
+    "id": 2,
+    "name": "Quần Jean Blue Slimfit",
+    "price": 450000,
+    "image": "jean_blue.png",
+    "description": "Dáng ôm vừa vặn, co giãn tốt, phù hợp đi chơi và đi làm.",
+    "categoryId": 2,
+    "size": "32",
+    "color": "Blue"
+  },
+  {
+    "id": 3,
+    "name": "Váy hoa dài dịu dàng",
+    "price": 380000,
+    "image": "dress_flower.png",
+    "description": "Thiết kế dịu dàng, phù hợp cho những buổi dã ngoại.",
+    "categoryId": 3,
+    "size": "M",
+    "color": "Floral"
+  },
+  {
+    "id": 4,
+    "name": "Thắt lưng da bò thật",
+    "price": 290000,
+    "image": "accessory.jpg",
+    "description": "Da bò nguyên miếng, khóa hợp kim không gỉ.",
+    "categoryId": 4,
+    "size": "Free size",
+    "color": "Brown"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Áo",
+    "image": "shirt_white .jpg"
+  },
+  {
+    "id": 2,
+    "name": "Quần",
+    "image": "jean_blue.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Váy",
+    "image": "dress_flower.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Phụ kiện",
+    "image": "accessory.jpg"
+  }
+]
